@@ -1,0 +1,101 @@
+,domain,symptom,score
+0,Refrigeration,not cooling,0.208372310571
+1,Refrigeration,not making ice,0.469135802469
+2,Washer,leaking,0.634345794393
+3,Dryer,not heating,0.615136876006
+4,HVAC,not cooling,0.483050847458
+5,Dryer,not drying,0.767772511848
+6,Washer,not spinning,0.5
+7,Refrigeration,leaking,0.219764011799
+8,Washer,leaking water,0.644927536232
+9,Refrigeration,no ice,0.575746268657
+10,Washer,not draining,0.561440677966
+11,Washer,not starting,0.839416058394
+12,Washer,noise,0.141810344828
+13,Refrigeration,ice maker not working,0.345714285714
+14,Dryer,not starting,0.732484076433
+15,Dryer,no heat,0.529792746114
+16,Washer,not filling,0.826271186441
+17,Washer,not working,0.0116279069767
+18,Dish,not draining,0.720338983051
+19,Refrigeration,not dispensing ice,0.673387096774
+20,Refrigeration,noise,0.47628267183
+21,Refrigeration,freezer not cooling,0.0263157894737
+22,Dryer,noise,0.66231884058
+23,Washer,not agitating,0.304347826087
+24,Refrigeration,not making enough ice,0.767955801105
+25,HVAC,leaking,0.561111111111
+26,Dryer,no power,0.5375
+27,Refrigeration,not cooling properly,0.714285714286
+28,Refrigeration,not working,0.0737704918033
+29,Dryer,taking too long to dry,0.952054794521
+30,Washer,leaking from bottom,0.416666666667
+31,Washer,making noise,0.0
+32,Refrigeration,not making any ice,0.528846153846
+33,Refrigeration,not freezing,0.0794117647059
+34,Washer,no power,0.870967741935
+35,Cooking,not heating,0.498113207547
+36,Refrigeration,cooling,0.120596205962
+37,Dryer,not heating enough,0.868852459016
+38,Dryer,too long to dry,0.966292134831
+39,Refrigeration,too cold,0.801630434783
+40,Refrigeration,not dispensing water,0.662337662338
+41,Dish,not starting,0.679347826087
+42,Washer,odor,0.5859375
+43,Washer,noisy,0.112068965517
+44,Washer,leaking from underneath,0.666666666667
+45,Washer,leaking underneath,0.444444444444
+46,Refrigeration,not cooling enough,0.722826086957
+47,Washer,grinding noise,0.655172413793
+48,Refrigeration,ice maker,0.460674157303
+49,Washer,not filling enough,0.929487179487
+50,Refrigeration,icemaker not working,0.5
+51,Washer,not working properly,0.0
+52,Washer,not advancing,0.664179104478
+53,Washer,not cleaning,0.551020408163
+54,HVAC,leaking water,0.133333333333
+55,Dryer,takes too long to dry,0.915254237288
+56,Washer,water leaking,0.583333333333
+57,Refrigeration,not enough ice,0.861842105263
+58,Refrigeration,frost,0.606707317073
+59,Washer,error code,0.281094527363
+60,Refrigeration,frost build up,0.557142857143
+61,Dryer,wont start,0.823529411765
+62,HVAC,not cooling enough,0.257352941176
+63,HVAC,not turning on,0.270833333333
+64,Washer,not cleaning clothes,0.722222222222
+65,Refrigeration,not producing ice,0.348214285714
+66,Refrigeration,not cooling at all,0.333333333333
+67,Refrigeration,making noise,0.5625
+68,Dryer,taking to long to dry,0.943396226415
+69,Dish,leaking,0.663793103448
+70,Washer,vibrating,0.777777777778
+71,Dryer,not heating at all,0.7
+72,Dish,no power,0.703125
+73,Washer,knocking noise,0.333333333333
+74,Refrigeration,not cold enough,0.625
+75,Cooking,not starting,0.656976744186
+76,Refrigeration,ice,0.30265654649
+77,Dryer,heating,0.607558139535
+78,Washer,vibration,0.829113924051
+79,Washer,leaking from the bottom,0.571428571429
+80,Refrigeration,odor,0.807692307692
+81,Washer,leaks,0.611111111111
+82,Cooking,noise,0.679775280899
+83,Refrigeration,ice build up,0.560606060606
+84,Dish,not cleaning,0.699712643678
+85,Dish,not cleaning dishes,0.673913043478
+86,Dish,not drying,0.90243902439
+87,Refrigeration,not running,0.553571428571
+88,Washer,leaking from door,1.0
+89,Dryer,too hot,0.631578947368
+90,Dryer,not turning on,0.913043478261
+91,Washer,leak,0.573529411765
+92,Washer,no hot water,0.388888888889
+93,Washer,clothes,0.316860465116
+94,Refrigeration,water leak,0.142857142857
+95,Washer,leaking water from bottom,0.0
+96,Cooking,no power,0.780487804878
+97,Refrigeration,no cool,0.375
+98,Washer,not draining properly,1.0
+99,Dryer,not drying properly,0.666666666667
