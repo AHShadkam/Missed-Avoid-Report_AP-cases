@@ -17,7 +17,7 @@ data2 = json.loads(elevations2)
 #json_normalize(data['data'])
 pd.DataFrame(data2['query_result']['data']['rows'])
 
-Final_score_df=pd.DataFrame(columns=['domain','symptom','score'])
+AD_7D_Avoid=Final_score_df=pd.DataFrame(columns=['domain','symptom','score'])
 
 Score_coeff_array=[]
 for value in [1.]*3:
